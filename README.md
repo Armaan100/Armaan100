@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan100&label=Profile%20views&color=0e75b6&style=flat" alt="armaan100" /> </p>
 
-- 🌱 I’m currently learning **REACT, DSA, FLUTTER**
+- 🌱 I’m currently learning **WEB DEVELOPMENT & DSA**
 
 - 📫 How to reach me **armaangogoi2004@gmail.com**
 
