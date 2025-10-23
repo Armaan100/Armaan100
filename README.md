@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 It's me, Armaan Gogoi</h1>
-<h3 align="center">Currently a second year computer engineering BE undergrad</h3>
+<h3 align="center">Currently a Third Year Computer Engineering BE undergrad</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/467a4348-4d29-474d-87a2-3722a5b52dff)
 ">
