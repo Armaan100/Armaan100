@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 It's me, Armaan Gogoi</h1>
 <h3 align="center">Currently a Third Year Computer Engineering BE undergrad</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan100&label=Profile%20views&color=0e75b6&style=flat" alt="armaan100" /> </p>
 
